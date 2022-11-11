@@ -1,0 +1,20 @@
+div{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+  }
+  table{
+    width: 100px;
+    height: 100px;
+  }
+  
+  .thead1{
+    height: 45px;
+  }
+  
+  td,th{
+    color:#000;
+    font-family: Arial;
+    font-weight: normal;
+    text-align: center;
+  }
